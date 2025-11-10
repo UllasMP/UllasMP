@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ullasMP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=UllasMP&theme=vue-dark&hide_border=false)<br/>
 </div>
 
 ###
@@ -56,7 +57,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=UllasMP&theme=vue-dark&hide_border=false)<br/>
+
 
 ###
