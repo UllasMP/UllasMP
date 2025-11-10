@@ -52,7 +52,11 @@
 ###
 
 <br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/ullasMP/ullasMP/output/snake.svg" alt="Snake animation" />
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=UllasMP&theme=vue-dark&hide_border=false)<br/>
 
 ###
