@@ -50,12 +50,10 @@
 
 
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UllasMP&show_icons=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UllasMP&layout=compact)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=UllasMP.UllasMP" />
-</div>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UllasMP&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UllasMP&layout=compact)
 
 
 
