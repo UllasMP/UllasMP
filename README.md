@@ -51,10 +51,11 @@
 
 # 📊 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UllasMP&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UllasMP&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=UllasMP)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UllasMP&layout=compact)
 
 
 ###
