@@ -49,7 +49,7 @@
 
 
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UllasMP&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ullas MP&show_icons=true&count_private=true&include_all_commits=true)
 
 
 
