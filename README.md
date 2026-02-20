@@ -49,8 +49,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=UllasMP&theme=vue-dark&hide_border=false)<br/>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&include_all_commits=true)
 
 
 
